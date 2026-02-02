@@ -88,8 +88,9 @@ ________________________________________
 
 <img width="1080" height="615" alt="spotify Home page" src="https://github.com/user-attachments/assets/48e68502-5df6-4da6-bbcc-bb18d62b30aa" />
    <img width="1144" height="635" alt="spotify overview" src="https://github.com/user-attachments/assets/9623163d-8761-4da2-b845-085f8a24e0ec" />
+   <img width="1149" height="638" alt="Spotify Artist Page" src="https://github.com/user-attachments/assets/b91873fa-1fdf-42c4-91ce-bed0522ed4af" />
 <img width="1145" height="637" alt="spotify song page" src="https://github.com/user-attachments/assets/3ce239f4-4823-43d0-85cc-5bf4adf19e56" />
-<img width="1149" height="638" alt="Spotify Artist Page" src="https://github.com/user-attachments/assets/b91873fa-1fdf-42c4-91ce-bed0522ed4af" />
+
 
 
 ________________________________________
