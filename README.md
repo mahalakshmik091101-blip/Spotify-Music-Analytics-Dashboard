@@ -95,5 +95,10 @@ ________________________________________
 
 ________________________________________
 
-By Mahalakshmi K
-📧email : mahalakshmik091101@gmail.com
+Prepared by 
+
+👤 Mahalakshmi K
+
+🎯 Data Analyst | SQL | Power BI | DAX | Excel |Tableau
+
+📧 Email:mahalakshmik091101@gmail.com
